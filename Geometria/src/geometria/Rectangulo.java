@@ -6,8 +6,11 @@
 package geometria;
 
 /**
- *
- * @author javier
+ * Clase para definir el objeto Rectangulo
+ * 
+ * @author 
+ * @version 1.0
+ * @since 2021/11/30
  */
 public class Rectangulo implements FiguraGeometrica
 {

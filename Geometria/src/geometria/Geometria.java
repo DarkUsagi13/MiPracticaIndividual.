@@ -6,12 +6,16 @@
 package geometria;
 
 /**
- *
+ * Clase para definir el objeto Geometria
+ * 
  * @author javier
+ * @version 1.0
+ * @since 2021-11-30
  */
 public class Geometria {
 
     /**
+     * Constructor del programa principal
      * @param args the command line arguments
      */
     public static void main(String[] args) 

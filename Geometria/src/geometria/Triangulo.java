@@ -10,12 +10,19 @@ package geometria;
  * @author javier
  */
 public class Triangulo implements FiguraGeometrica
-{
+{   
+    /* Atributo de tipo double que contiene la base del triangulo*/
     private double base;
+    /* Atributo de tipo double que contiene la altura del triangulo*/
     private double altura;
+    /* Atributo de tipo double que contiene el area del triangulo*/
     private double areaTriangulo;
     
-
+    /**
+     * Método constructor para la clase triangulo
+     * @param base Base del triangulo
+     * @param altura Altura del triangulo
+     */
     public Triangulo(double base, double altura) 
     {
         this.base = base;
